@@ -1,0 +1,4 @@
+instalar yarn
+instalar y crear proyecto con vite
+instalaremos el react router 
+yarn add react-router-dom
